@@ -1,4 +1,4 @@
-# Hotel Reservation System (HRS) - Java Console Application
+# Hotel Reservation System - Java Console Application
 
 This project is a simple console-based Hotel Reservation System (HRS) developed in Java. It allows users to manage hotel room reservations through a command-line interface. The application uses JDBC to connect to a MySQL database for storing and retrieving reservation data.
 
@@ -85,6 +85,3 @@ This project is a simple console-based Hotel Reservation System (HRS) developed 
 * Add logging functionality.
 * Refactor to use prepared statements for better security.
 
-## License
-
-This project is open source. You are free to use and modify it as you see fit.
